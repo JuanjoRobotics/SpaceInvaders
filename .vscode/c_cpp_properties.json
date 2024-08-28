@@ -1,0 +1,19 @@
+{
+    "configurations": [
+
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/juanj/Documents/Rol2DGame/include",
+                "C:/Users/juanj/Documents/Rol2DGame/include/SDL2/"
+            ],
+            "defines": [],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
